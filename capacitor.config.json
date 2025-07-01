@@ -1,0 +1,11 @@
+{
+  "appId": "com.example.helloworld",
+  "appName": "HelloWorld",
+  "webDir": "www",
+  "android": {
+    "compileOptions": {
+      "sourceCompatibility": "17",
+      "targetCompatibility": "17"
+    }
+  }
+}
